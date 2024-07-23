@@ -1,0 +1,10 @@
+alembic==1.13.1
+asyncpg==0.29.0
+fastapi==0.111.0
+fastparquet==2024.5.0
+pandas==2.1.4
+psycopg2==2.9.9
+pyarrow==16.1.0
+pydantic==2.7.2
+pydantic-settings==2.2.1
+sqlalchemy[asyncio]==2.0.30
